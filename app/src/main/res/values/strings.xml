@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AddOneDay</string>
+    <string name="button">Start</string>
+    <string name="Tittle">Powrót do przyszłości</string>
+    <string name="bt_ust">Ustawienia</string>
+    <string name="bt_exit">Wyjście</string>
+    <string name="bt_info">Info</string>
+    <string name="i_tittle">Informacje o autorze</string>
+    <string name="i_opis">Szymon Baran EF-DI \nNr albumu: 148769 \nData urodzenia: 21.10.1995r. \nMail: Szymszello@gmail.com</string>
+    <string name="i_opis_zdjecia">To jest Szymek Baran</string>
+    <string name="opt_tittle">Podróż w czasie!\n Ustaw czas:</string>
+    <string name="opt_switch">Skok w przyszłość! </string>
+    <string name="opt_ilosc">ilość dni</string>
+    <string name="set_but">Zapisz</string>
+    <string name="s_o">O</string>
+    <string name="s_dni">dni.</string>
+</resources>
